@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BottomSheetDialogFragment_17</string>
+    <string name="share">Share</string>
+    <string name="hello_everyone">Hello everyone!!!</string>
+    <string name="my_name_is_ruslan">My name is Ruslan</string>
+    <string name="support_me">SUPPORT ME</string>
+    <string name="notifications">Notifications</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="button_share">Share</string>
 </resources>
